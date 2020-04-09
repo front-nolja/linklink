@@ -1,7 +1,12 @@
 # linklink
 놀자방 링크 모음
 
+### 4/10
+- [Overconfigued](https://overconfigured.netlify.com/)
+
 ### 4/9
+- [Why do we need middleware for async flow in Redux?](https://stackoverflow.com/questions/34570758/why-do-we-need-middleware-for-async-flow-in-redux)
+- [Algebraic Effects](https://phenax.github.io/algebraic-effects/)
 - [why-did-you-render](https://github.com/welldone-software/why-did-you-render#readme)
 - [[네트워크 구성]One-arm과 In-line 구성 방식](https://net-gate.tistory.com/37)
 - [[번역] 최신 네트워크 로드 밸런싱 및 프록시 소개](https://ziwon.github.io/post/modern-network-load-balancing-and-proxying/?fbclid=IwAR1DtzK4gNtmgrHIcv7KV1CdI4yi2sq9II7p4KgwvVsEdTnlJsw3qbvfevs)
